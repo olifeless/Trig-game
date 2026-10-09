@@ -1,4 +1,3 @@
-#!/usr/bin/env python3
 """
 Exact Trig Trainer  -  a pygame quiz for exact trigonometric values.
 
